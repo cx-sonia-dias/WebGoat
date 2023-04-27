@@ -10,7 +10,7 @@ docker run -t --rm -v "$PWD":/usr/src/app -p "4000:4000" starefossen/github-page
 
 And then browse to http://localhost:4000/docs
 
-# Thanks to
+# Thanks to o
 
 [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
 
