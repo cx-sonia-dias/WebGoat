@@ -1,6 +1,6 @@
 # WebGoat landing page
 
-This serves the Github pages for the landing page of WebGoat.
+This serves the Github pages for the landing page of WebGoat. sc
 
 # Running locally
 
