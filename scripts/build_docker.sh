@@ -1,4 +1,5 @@
 #!/bin/bash
+#comment
 
 WEBGOAT_HOME=$(pwd)/../
 
