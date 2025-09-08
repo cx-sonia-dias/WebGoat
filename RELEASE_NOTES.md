@@ -1,4 +1,4 @@
-# WebGoat release notes 
+# WebGoat release notes s
 
 ## Version 8.1.0
 
